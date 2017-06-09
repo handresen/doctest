@@ -2,6 +2,7 @@
 
 * AA
 * BB
+* CC
 * [Link to site doc](https://github.com/handresen/doctest/edit/master/somecontent.md)
 
 <img src="images/termo.jpg" width="40" height="200" />
